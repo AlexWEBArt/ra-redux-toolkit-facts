@@ -1,8 +1,7 @@
 import { useDispatch } from "react-redux"
-import { outputFacts } from "../../features/facts/slices/factsSlice";
+import { outputFacts } from "../../../features/facts/slices/factsSlice";
 
-
-export default function FormInputFacts() {
+export default function InputFacts() {
     const dispatch = useDispatch();
 
     const handleChange = (e) => {

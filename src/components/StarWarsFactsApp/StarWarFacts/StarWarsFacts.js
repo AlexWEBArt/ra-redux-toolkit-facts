@@ -1,10 +1,11 @@
 import FactsList from "../FactsList/FactsList";
-import FormInputFacts from "../InputFacts/FormInputFacts";
+import InputFacts from "../InputFacts/InputFacts";
 
 export default function StarWarsFacts() {
     return (
         <div className="starwars-facts">
-            <FormInputFacts />
+            <h1 className="starwars-title">StarWars Facts</h1>
+            <InputFacts />
             <FactsList />
         </div>
     )
