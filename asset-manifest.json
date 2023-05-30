@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ra-redux-toolkit-facts/static/css/main.9071bff3.css",
-    "main.js": "/ra-redux-toolkit-facts/static/js/main.b054a497.js",
+    "main.css": "/ra-redux-toolkit-facts/static/css/main.b7952015.css",
+    "main.js": "/ra-redux-toolkit-facts/static/js/main.97c24bd9.js",
     "static/js/787.4d9492a2.chunk.js": "/ra-redux-toolkit-facts/static/js/787.4d9492a2.chunk.js",
     "index.html": "/ra-redux-toolkit-facts/index.html",
-    "main.9071bff3.css.map": "/ra-redux-toolkit-facts/static/css/main.9071bff3.css.map",
-    "main.b054a497.js.map": "/ra-redux-toolkit-facts/static/js/main.b054a497.js.map",
+    "main.b7952015.css.map": "/ra-redux-toolkit-facts/static/css/main.b7952015.css.map",
+    "main.97c24bd9.js.map": "/ra-redux-toolkit-facts/static/js/main.97c24bd9.js.map",
     "787.4d9492a2.chunk.js.map": "/ra-redux-toolkit-facts/static/js/787.4d9492a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9071bff3.css",
-    "static/js/main.b054a497.js"
+    "static/css/main.b7952015.css",
+    "static/js/main.97c24bd9.js"
   ]
 }
